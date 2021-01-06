@@ -9,6 +9,9 @@
 ✔ You can describe the differences between a process and a thread.  
 ✔ You know what is PEP-8 and understand why to respect code style.  
 
+#### Run these notebooks on cloud with Binder
+[🚀 Run Notebooks](https://mybinder.org/v2/gh/myshy93/Training-Python-Intermediate/HEAD)
+
 # 📖 What you will learn?
 
 The course will have 5 lectures introducing to you advanced OOP operations in Python, logging and command line arguments and testing.
