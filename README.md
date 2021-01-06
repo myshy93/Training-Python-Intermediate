@@ -15,7 +15,7 @@ The course will have 5 lectures introducing to you advanced OOP operations in Py
 
 ### Outline
 1. **[OOP](Lecture%201/Lecture%201.ipynb)** - Deep dive into Python Objects
-2. **Functional programming** - Iterators, Generators, Namespaces
+2. **[Functional programming](Lecture%202/Lecture%202.ipynb)** - Iterators, Generators, Namespaces
 3. **Logging and Time** - How to log for easier debug
 4. **Command line arguments** - Make your code more versatile
 5. **Unit testing** - Tests your code
