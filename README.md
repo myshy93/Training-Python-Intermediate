@@ -21,4 +21,4 @@ The course will have 5 lectures introducing to you advanced OOP operations in Py
 2. **[Functional programming](Lecture%202/Lecture%202.ipynb)** - Iterators, Generators, Namespaces
 3. **[Logging and Time](Lecture%203/Lecture%203.ipynb)** - How to log for easier debug
 4. **[Command line arguments](Lecture%204/Lecture%204.ipynb)** - Make your code more versatile
-5. **Unit testing** - Tests your code
+5. **[Unit testing](Lecture%205/Lecture%205.ipynb)** - Tests your code
