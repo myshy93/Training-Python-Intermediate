@@ -22,3 +22,23 @@ The course will have 5 lectures introducing to you advanced OOP operations in Py
 3. **[Logging and Time](Lecture%203/Lecture%203.ipynb)** - How to log for easier debug
 4. **[Command line arguments](Lecture%204/Lecture%204.ipynb)** - Make your code more versatile
 5. **[Unit testing](Lecture%205/Lecture%205.ipynb)** - Tests your code
+
+### Project
+
+During the course you will build a CLI tool, step by step with your new knowledge.
+
+**Project name:** Build tracking tool.
+
+**Description:** This tool will monitor a directory for content change. If a new build is placed inside,
+the information about it will be exported in a html report file.
+
+**CLI args:**
+ - path to monitor
+ - run mode: scan one or scheduled
+ - output filename
+ - help
+ - version
+ - verbosity
+ - log path
+ 
+ *Read more about project [here](Project/project-description.ipynb)*.
