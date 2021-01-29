@@ -4,9 +4,7 @@
 
 #### Assumptions
 ✔ You attended Python Foundation Course or you have basic knowledge (syntax, data structures, flow control and string formatting) about Python 3.7.  
-✔ You know OOP concepts and how they are implemented in Python.  
-✔ You have basis understanding about threads and how CPU deals with them.  
-✔ You can describe the differences between a process and a thread.  
+✔ You know OOP concepts and how they are implemented in Python.   
 ✔ You know what is PEP-8 and understand why to respect code style.  
 
 #### Run these notebooks on cloud with Binder

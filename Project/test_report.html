@@ -1,0 +1,78 @@
+<html>
+<head>
+    <style>
+        body {
+            background-color: #fff3e0;
+            color: black;
+        }
+        .float-right {
+            float: right;
+        }
+        .d-block {
+            display: block;
+        }
+        .d-inline {
+            display: inline;
+        }
+        .m-0 {
+            margin: 0;
+        }
+        .mt-1 {
+            margin-top: 5px;
+        }
+        .mb-1 {
+           margin-bottom: 5px;
+        }
+        .mb-2 {
+            margin-bottom: 10px;
+        }
+        table {
+            width: 100%;
+            border: 2px #ccc0ae solid;
+            border-collapse: collapse;
+            font-size: larger;
+            text-align: center;
+        }
+
+        table thead {
+            background-color: #ccc0ae;
+        }
+       table tbody tr {
+           border-bottom: 1px gray solid;
+           line-height: 40px;
+       }
+        table tbody tr:hover {
+            background-color: #eeceaf;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1 class="d-inline m-0">Build report</h1>
+        <p class="d-inline float-right mt-1"><strong>Last updated: <span>20.20.2020</span></strong></p>
+    </div>
+        <hr class="mb-2 mt-1">
+    <div>
+        <table>
+            <thead>
+                <tr>
+                    <th>Build name</th>
+                    <th>Path</th>
+                    <th>Bootloader version</th>
+                    <th>Deploy time</th>
+                    <th>Discover time</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>20w12-1.12</td>
+                    <td>\\robcp530888\\Share</td>
+                    <td>1.3</td>
+                    <td>20-01-2020 10:30</td>
+                    <td>20-01-2020 16:23</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
