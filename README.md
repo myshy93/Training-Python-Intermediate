@@ -40,3 +40,8 @@ the information about it will be exported in a html report file.
  - log path
  
  *Read more about project [here](Project/project-description.ipynb)*.
+ 
+ 
+ ### About Python
+ Python language is one of the most loved language by developers (third place) and the most wanted language according
+ to Stack Overflow developer survey 2020. See graphics [here](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages). 
